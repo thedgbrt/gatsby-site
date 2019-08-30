@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "gatsby-site-dev-20190830162521-authRole",
+            "UnauthRoleArn": "arn:aws:iam::864840850777:role/gatsby-site-dev-20190830162521-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::864840850777:role/gatsby-site-dev-20190830162521-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "gatsby-site-dev-20190830162521-deployment",
+            "UnauthRoleName": "gatsby-site-dev-20190830162521-unauthRole",
+            "StackName": "gatsby-site-dev-20190830162521",
+            "StackId": "arn:aws:cloudformation:us-east-1:864840850777:stack/gatsby-site-dev-20190830162521/ffc35c20-cb31-11e9-998e-0eb85d5eff94"
+        }
+    }
+}
